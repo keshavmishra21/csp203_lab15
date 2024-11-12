@@ -33,7 +33,6 @@ awk 'BEGIN {
     }
 }' > temp.csv && mv temp.csv $output_file
 
-# Generate the GNUplot script
 cat << EOF > $plot_script
 set terminal png size 800,600
 set output '4d.png'
