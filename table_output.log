@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.15)  12 NOV 2024 19:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.15)  12 NOV 2024 23:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -86,42 +86,50 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \c@LT@chunks=\count270
 \LT@p@ftn=\toks18
 )
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count271
+\float@exts=\toks19
+\float@box=\box56
+\@float@everytoks=\toks20
+\@floatcapt=\box57
+)
 (/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
 ef
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count271
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count272
+\l__pdf_internal_box=\box58
 ) (./table_output.aux)
 \openout1 = `table_output.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 
 (/usr/local/texlive/2024basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count272
+\scratchcounter=\count273
 \scratchdimen=\dimen157
-\scratchbox=\box57
-\nofMPsegments=\count273
-\nofMParguments=\count274
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count275
+\scratchbox=\box59
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count276
 \MPscratchDim=\dimen158
-\MPnumerator=\count276
-\makeMPintoPDFobject=\count277
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks22
 )
 (/usr/local/texlive/2024basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
 ty
@@ -133,48 +141,70 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Overfull \hbox (112.88976pt too wide) in alignment at lines 7--11
+<4a.png, id=1, 481.8pt x 361.35pt>
+File: 4a.png Graphic file (type png)
+<use 4a.png>
+Package pdftex.def Info: 4a.png  used on input line 9.
+(pdftex.def)             Requested size: 241.49895pt x 181.12117pt.
+<4b.png, id=2, 481.8pt x 361.35pt>
+File: 4b.png Graphic file (type png)
+<use 4b.png>
+Package pdftex.def Info: 4b.png  used on input line 15.
+(pdftex.def)             Requested size: 241.49895pt x 181.12117pt.
+<4c.png, id=3, 481.8pt x 361.35pt>
+File: 4c.png Graphic file (type png)
+<use 4c.png>
+Package pdftex.def Info: 4c.png  used on input line 21.
+(pdftex.def)             Requested size: 241.49895pt x 181.12117pt.
+<4d.png, id=4, 602.25pt x 451.6875pt>
+File: 4d.png Graphic file (type png)
+<use 4d.png>
+Package pdftex.def Info: 4d.png  used on input line 27.
+(pdftex.def)             Requested size: 241.49895pt x 181.12668pt.
+ [1
+
+{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
+4a.png (PNG copy)> <./4b.png (PNG copy)>]
+Overfull \hbox (112.88976pt too wide) in alignment at lines 33--37
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (112.88976pt too wide) in alignment at lines 11--15
+Overfull \hbox (112.88976pt too wide) in alignment at lines 37--41
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (112.88976pt too wide) in alignment at lines 15--415
+Overfull \hbox (112.88976pt too wide) in alignment at lines 41--441
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (112.88976pt too wide) in alignment at lines 415--622
+Overfull \hbox (112.88976pt too wide) in alignment at lines 441--648
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-[1
-
-{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5] [6] [7] [8] (./table_output.aux)
+[2 <./4c.png (PNG copy)> <./4d.png (PNG copy)>] [3] [4] [5] [6] [7] [8]
+[9] [10] (./table_output.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1437 strings out of 475567
- 23726 string characters out of 5777888
- 2301187 words of memory out of 5000000
- 23628 multiletter control sequences out of 15000+600000
+ 1543 strings out of 475567
+ 25333 string characters out of 5777888
+ 2302187 words of memory out of 5000000
+ 23730 multiletter control sequences out of 15000+600000
  558069 words of font info for 36 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 57i,5n,65p,211b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,325b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
 .pfb>
-Output written on table_output.pdf (8 pages, 47179 bytes).
+Output written on table_output.pdf (10 pages, 182101 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
