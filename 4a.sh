@@ -37,5 +37,3 @@ set title "Histogram of Sex vs Count"
 set xtics ("Female" 0,"Male" 1)
 plot 'sex_count.dat' using 2:xtic(1) with boxes notitle lc "red"
 EOF
- 
-echo "Histogram saved as plot-4a.png"
